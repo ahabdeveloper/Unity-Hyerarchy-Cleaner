@@ -24,7 +24,7 @@ using UnityEditor;
  * - To quickly create and assign the necessary empty objects, use the "STEP 0. Fill in Automatically Necessary Variables" button.
  * - Use the "STEP 1. Transfer Meshes" button to transfer MeshRenderers.
  * - Use the "STEP 2. Organize Empty Meshes" button to move empty meshes.
- * - The script automatically resets the boolean flags after performing the respective operations.
+ 
  */
 
 namespace AhabTools
