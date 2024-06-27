@@ -20,6 +20,7 @@ This script handles complex object hierarchies where objects with MeshRenderers 
 3. To quickly create and assign the necessary empty objects, use the **"STEP 0. Fill in Automatically Necessary Variables"** button.
 4. Use the **"STEP 1. Transfer Meshes"** button to transfer MeshRenderers.
 5. Use the **"STEP 2. Organize Empty Meshes"** button to move empty meshes.
+6. Delete the object holding all the 0-vertex meshes.
 
 The script automatically resets the boolean flags after performing the respective operations.
 
