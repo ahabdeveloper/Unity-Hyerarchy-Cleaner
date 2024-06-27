@@ -5,7 +5,7 @@
 This script handles complex object hierarchies where objects with MeshRenderers are nested under multiple levels of empty objects. It covers two main steps:
 
 ## Step 1: Identify and Transfer Objects with MeshRenderers
-- **'original'** refers to the original object hierarchy with nested objects containing MeshRenderers.
+- 'original' refers to the original object hierarchy with nested objects containing MeshRenderers.
 - Assign **'original'** and **'newTransform'** with appropriate Transforms.
 - Use the **"STEP 1. Transfer Meshes"** button in the Inspector to initiate the transfer process. This moves all objects with MeshRenderers from the **'original'** Transform to the **'newTransform'**, maintaining their world coordinates.
 
