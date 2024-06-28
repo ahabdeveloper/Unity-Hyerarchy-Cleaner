@@ -22,7 +22,7 @@ using UnityEditor;
  * - Attach this script to a GameObject in your scene.
  * - Assign the 'original', 'newTransform', and 'empty' Transforms in the Inspector.
  * - To quickly create and assign the necessary empty objects, use the "STEP 0. Fill in Automatically Necessary Variables" button.
- * - Use the "STEP 1. Transfer Meshes" button to transfer MeshRenderers.
+ * - Use the "STEP 1. Transfer Meshes" button to transfer MeshRenderers.  If the hyerachy is very complex you may need to click on this button a few times.
  * - Use the "STEP 2. Organize Empty Meshes" button to move empty meshes.
  
  */
