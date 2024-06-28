@@ -18,7 +18,7 @@ This script handles complex object hierarchies where objects with MeshRenderers 
 1. Attach this script to a GameObject in your scene.
 2. Assign the `original`, `newTransform`, and `empty` Transforms in the Inspector.
 3. To quickly create and assign the necessary empty objects, use the **"STEP 0. Fill in Automatically Necessary Variables"** button.
-4. Use the **"STEP 1. Transfer Meshes"** button to transfer MeshRenderers.
+4. Use the **"STEP 1. Transfer Meshes"** button to transfer MeshRenderers. If the hyerachy is very complex you may need to click on this button a few times.
 5. Use the **"STEP 2. Organize Empty Meshes"** button to move empty meshes.
 6. Delete the object holding all the 0-vertex meshes.
 
